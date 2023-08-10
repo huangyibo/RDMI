@@ -13,6 +13,8 @@ takes in the configurations and enforce the introspection policies for different
 This repo contains implementation of the system. Please refer to each ``readme`` under those subdirectories for more
 informations.
 
+Note that our RDMI work has been published at USENIX Security 2023 -- [**Distinguished Paper Award**](https://www.usenix.org/conference/usenixsecurity23/presentation/liu-hongyi).
+
 ## Compiler
 
 The ``compiler`` directory contains the implementation of the compiler. It also includes the policy dsl used for 
