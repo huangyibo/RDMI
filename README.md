@@ -1,7 +1,7 @@
 # Remote Direct Memory Introspection
 
 
-*Hope that you'd be glad to add a star if you think this list is helpful!*
+*Hope that you'd be glad to add a star if you think this repo is helpful!*
 
 
 ## Overview
