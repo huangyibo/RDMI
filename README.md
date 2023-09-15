@@ -66,8 +66,9 @@ If you use our RDMI or related codes in your research, please cite our paper:
 ```bib
 @inproceedings{liu2023remote,
   title={Remote Direct Memory Introspection},
-  author={Liu, Hongyi and Xing, Jiarong and Huang, Yibo and Devadas, Srinivas and Chen, Ang},
-  booktitle={32st USENIX Security Symposium (USENIX Security 23)},
+  author={Liu, Hongyi and Xing, Jiarong and Huang, Yibo and Zhuo, Danyang and Devadas, Srinivas and Chen, Ang},
+  booktitle={32nd USENIX Security Symposium (USENIX Security 23)},
+  pages={6043--6060},
   year={2023}
 }
 ```
